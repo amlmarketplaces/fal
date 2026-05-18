@@ -1,0 +1,16 @@
+{
+  "name": "fal",
+  "owner": {
+    "name": "Fal"
+  },
+  "description": "Claude Code marketplace federating every @amlplugins/fal-* plugin under a single marketplace source.",
+  "plugins": [
+    {
+      "name": "fal-client",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/fal-client.git"
+      }
+    }
+  ]
+}
